@@ -1,0 +1,7 @@
+States: 0
+Alphabet: 'a' 'b'
+Transitions:
+  0 a -> 0
+  0 b -> 0
+Initial State: 0
+Final States: 0

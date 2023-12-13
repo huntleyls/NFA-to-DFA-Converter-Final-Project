@@ -1,0 +1,14 @@
+States: 0 1 2 3 4
+Alphabet: a b c
+Transitions:
+  0 a -> 1
+  0 b -> 2
+  1 c -> 3
+  2 a -> 4
+  3 b -> 0 4
+  4 c -> 1
+Lambda Transitions:
+  0 -> 3
+  2 -> 4
+Initial State: 0
+Final States: 1 4
