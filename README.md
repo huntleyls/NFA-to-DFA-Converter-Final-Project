@@ -64,12 +64,12 @@ The Specified output for the DFA will be as follow:
 `2 b -> 3`  
 `5 a -> 2`  
 `4 a -> 0`  
-`4 b -> 5`
-`0 b -> 1`
-`3 a -> 4`
-`3 b -> 2`
-`1 a -> 4`
-`1 b -> 1`
+`4 b -> 5`  
+`0 b -> 1`  
+`3 a -> 4`  
+`3 b -> 2`  
+`1 a -> 4`  
+`1 b -> 1`  
 - **Initial State:** The starting state of the DFA. Example: `3`
 - **Final States:** A list of accepting states in the DFA. Example: `0 1 2`
   
